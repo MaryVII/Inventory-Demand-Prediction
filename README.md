@@ -11,44 +11,7 @@ To develop machine learning models that predict spare part demand for Rank A ite
 ### Goal
 Select the champion model that best predicts spare part demand.
 
-## 2. Analytic Approach
-
-### 1. Data Collection and Data Wrangling
-- **Data Sources**: Gather relevant time series data from Company A, including historical demand data, downtime records, inventory levels, and other pertinent factors.
-- **Data Wrangling**: Address missing values, outliers, and inconsistencies to ensure data is in an appropriate format for analysis.
-
-### 2. Exploratory Data Analysis (EDA)
-- **Trend Analysis**: Explore historical demand trends, seasonal patterns, and anomalies.
-- **Visualization**: Create plots to visualize demand patterns, seasonality, and feature relationships.
-- **Correlation Analysis**: Evaluate how various features correlate with demand to guide feature selection.
-
-### 3. Model Selection and Development
-- **Model Types**: Evaluate a range of machine learning and time series models, including:
-  - Linear Regression
-  - Polynomial Regression
-  - Decision Tree
-  - Random Forest
-  - XGBoost
-- **Model Training**: Split data into training and validation sets. Train and fine-tune models using the training data.
-- **Cross-Validation**: Use cross-validation to assess model performance and prevent overfitting.
-
-### 4. Model Evaluation
-- **Metrics**: Use evaluation metrics such as Mean Absolute Error (MAE), Root Mean Squared Error (RMSE), and R-squared to measure model accuracy.
-- **Comparison**: Compare model performance using these metrics to identify the best-performing model.
-
-### 5. Model Selection
-- **Champion Model**: Choose the model with the best performance based on evaluation metrics.
-- **Interpretation**: Analyze results to understand predictions and validate with domain knowledge.
-
-### 6. Implementation and Monitoring
-- **Deployment**: Implement the champion model for real-time forecasting or periodic updates.
-- **Monitoring**: Continuously monitor model performance and adjust based on feedback and new data.
-
-### 7. Reporting and Documentation
-- **Results**: Document findings, including model selection, performance metrics, and recommendations.
-- **Presentation**: Prepare detailed reports or presentations to communicate results and insights to stakeholders.
-
-## 3. Data Requirements
+## 3. Data Attributions
 
 | Parameter           | Description                                           | Type of Attribute |
 |---------------------|-------------------------------------------------------|-------------------|
