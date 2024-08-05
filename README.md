@@ -1,4 +1,4 @@
-# Inventory Demand Prediction for Manufacturing Company A
+# Inventory Demand Prediction
 
 ## 1. Business Understanding
 
