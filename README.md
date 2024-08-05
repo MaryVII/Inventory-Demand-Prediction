@@ -11,7 +11,7 @@ To develop machine learning models that predict spare part demand for Rank A ite
 ### Goal
 Select the champion model that best predicts spare part demand.
 
-## 3. Data Attributions
+## 2. Data Attributions
 
 | Parameter           | Description                                           | Type of Attribute |
 |---------------------|-------------------------------------------------------|-------------------|
@@ -30,7 +30,7 @@ Select the champion model that best predicts spare part demand.
 | Receiving Plant     | Factory charged for the usage transaction            | Categorical       |
 | Material Document   | Transaction unique ID number                         | Categorical       |
 
-## Libraries Used
+## 3. Libraries Used
 
 | Library       | Description                                                              |
 |---------------|--------------------------------------------------------------------------|
